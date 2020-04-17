@@ -4,10 +4,10 @@ A few lines of code, written in Python 3, using the `PIL` library to split an im
 
 It was build to split panoramic pictures in order to be able to post them on instagram.... hehehe. Here's an example:
 Original picture:
-![Full Image](https://github.com/joseluishaddad/PyThings/photo_split/master/input/sunsetcoron4.jpg "Full")
+![Full Image](https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/input/sunsetcoron4.jpg "Full")
 Splits:
-![Section 1](https://github.com/joseluishaddad/PyThings/photo_split/master/output/0.jpg "Sec 1")
-![Section 2](https://github.com/joseluishaddad/PyThings/photo_split/master/output/1.jpg "Sec 2")
-![Section 3](https://github.com/joseluishaddad/PyThings/photo_split/master/output/2.jpg "Sec 3")
+![Section 1](https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/output/0.jpg "Sec 1")
+![Section 2](https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/output/1.jpg "Sec 2")
+![Section 3](https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/output/2.jpg "Sec 3")
 
 So go check them out [here](https://www.instagram.com/josehaddadc) if you feel like doing so :wink:
