@@ -10,10 +10,10 @@ Original picture:
 ![Full Image](https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/input/usain_jose.jpg "Full")
 
 Splits:
-
+<div>
 <img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/output/img0.jpg" height="400">
 <img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/output/img1.jpg" height="400">
 <img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/output/img2.jpg" height="400">
-
+</div>
 
 So go check them out [here](https://www.instagram.com/josehaddadc) if you feel like doing so :wink:
