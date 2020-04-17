@@ -20,7 +20,7 @@ def split(photo_path, n=2, split_axis="x", input_folder="input/", output_folder=
     # Generator with the arrays as imgs and save every img
     new_imgs = (Image.fromarray(sub_array, mode=None) for sub_array in sub_img_arrays)
     for index, new_img in enumerate(new_imgs):
-        new_img.save(f"{output_folder}{index}.jpg", format='jpeg')
+        new_img.save(f"{output_folder}img_{index}.jpg", format='jpeg')
 
 if __name__ == "__main__":
     input_img_name, n = "usain_jose.jpg", 3
