@@ -2,7 +2,7 @@
 
 A few lines of code, written in Python 3, using the `PIL` library to split an image in `n` sub-images.
 
-It was build to split panoramic pictures in order to be able to post them on instagram.... hehehe. 
+It was built to split panoramic pictures to post them on instagram.... hehehe. 
 
 ## Here's an example
 
