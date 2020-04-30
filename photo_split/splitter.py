@@ -23,5 +23,5 @@ def split(photo_path="input_img.jpg", n=2, split_axis="x", input_folder="input/"
         new_img.save(f"{output_folder}{index}.jpg", format='jpeg')
 
 if __name__ == "__main__":
-    input_img_name, n = "glacier.jpg", 2
+    input_img_name, n = "i_love_you_so_much.jpg", 3
     split(input_img_name, n)
