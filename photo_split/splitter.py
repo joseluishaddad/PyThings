@@ -3,7 +3,7 @@ import numpy as np
 import sys
 
 """ This function splits an image n times in an specific axis """
-def split(photo_path, n=2, split_axis="x", input_folder="input/", output_folder="output/"):
+def split(photo_path="input_img.jpg", n=2, split_axis="x", input_folder="input/", output_folder="output/"):
     # Open the image
     img = Image.open(f"{input_folder}{photo_path}")
     img_as_array = np.asarray(img)
@@ -23,5 +23,5 @@ def split(photo_path, n=2, split_axis="x", input_folder="input/", output_folder=
         new_img.save(f"{output_folder}{index}.jpg", format='jpeg')
 
 if __name__ == "__main__":
-    input_img_name, n = "usain_jose.jpg", 3
+    input_img_name, n = "glacier.jpg", 2
     split(input_img_name, n)
