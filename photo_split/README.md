@@ -12,9 +12,9 @@ It was built to split panoramic pictures to post them on instagram.... hehehe.
 
 ### Splits:
 <div>
-<img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/readme_imgs/0.jpg" height="400">
-<img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/readme_imgs/1.jpg" height="400">
-<img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/readme_imgs/2.jpg" height="400">
+<img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/readme_imgs/0.jpg" height="350">
+<img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/readme_imgs/1.jpg" height="350">
+<img src="https://raw.githubusercontent.com/joseluishaddad/PyThings/master/photo_split/readme_imgs/2.jpg" height="350">
 </div>
 
 So go check them out [here](https://www.instagram.com/josehaddadc) if you feel like doing so :wink:
