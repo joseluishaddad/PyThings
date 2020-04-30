@@ -18,3 +18,10 @@ It was built to split panoramic pictures to post them on instagram.... hehehe.
 </div>
 
 So go check them out [here](https://www.instagram.com/josehaddadc) if you feel like doing so :wink:
+
+
+# Splitter Telegram Bot
+## How it Works?
+1. Receives an image under 20MB
+2. Receives the command `/splits <n> <axis>` with the parameters for the split.
+3. Returns the splitted image.
