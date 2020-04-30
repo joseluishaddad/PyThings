@@ -25,7 +25,7 @@ Yes! It could be a pain in the *** to run the code every time you want to split 
 
 ## How it Works?
 1. Receives an image under 20MB
-2. Receives the command `/splits <n> <axis>` with the parameters for the split.
+2. Receives the command `/split <n> <axis>` with the parameters for the split.
 3. Returns the splitted image.
 
 NOTE: It's not yet deployed, but will be anytime soon.
