@@ -21,7 +21,7 @@ So go check them out [here](https://www.instagram.com/josehaddadc) if you feel l
 
 
 # Splitter Telegram Bot
-Yes! It could be a pain in the *** to run the code every time you want to split a picture, so i created a telegram that does it for you and then deletes the files.
+Yes! It could be a pain in the *** to run the code every time you want to split a picture, so i'm creating a telegram bot that does it for you and then deletes the files.
 
 ## How it Works?
 1. Receives an image under 20MB
